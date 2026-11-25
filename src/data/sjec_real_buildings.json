@@ -1,0 +1,1603 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "bldg-ab1",
+      "properties": {
+        "id": "bldg-ab1",
+        "osm_id": "rel-21097281",
+        "name": "Academic Block I (AB-I)",
+        "short_code": "AB-I",
+        "category": "academic",
+        "levels": 4,
+        "height": 16.5,
+        "wall_color": "#889983",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#0284c7",
+        "roof_shape": "gabled",
+        "photo": "/campus_photos/basketball_court_ground.jpg",
+        "summary": "Main undergraduate engineering block overlooking the FIBA basketball court. Features protruding concrete brise-soleil box sunshades, cylindrical structural columns, and Fr Fred Memorial Hall.",
+        "departments": [
+          "Electrical & Electronics Engineering (EEE)",
+          "Basic Sciences & Mathematics",
+          "Humanities & Social Sciences"
+        ],
+        "facilities": [
+          "Fr. Fred Memorial Hall (Basement Assembly Hall)",
+          "Analog & Digital Electronics Design Lab",
+          "Power Systems & High Voltage Simulation Lab",
+          "Electrical Machines & Drives Laboratory",
+          "Departmental Reference Library & Reading Room"
+        ],
+        "accessibility": "Elevator equipped, ramped north portico, accessible restrooms",
+        "color": "#e2e8f0",
+        "parapet_color": "#cbd5c1",
+        "real_photo_available": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8983689,
+              12.9101399
+            ],
+            [
+              74.8983689,
+              12.9102459
+            ],
+            [
+              74.8983688,
+              12.9103326
+            ],
+            [
+              74.8982978,
+              12.9103328
+            ],
+            [
+              74.8982968,
+              12.9104277
+            ],
+            [
+              74.8983607,
+              12.9104279
+            ],
+            [
+              74.8983597,
+              12.9104947
+            ],
+            [
+              74.8984653,
+              12.9104946
+            ],
+            [
+              74.8984655,
+              12.9104282
+            ],
+            [
+              74.8985997,
+              12.9104305
+            ],
+            [
+              74.8986619,
+              12.9104311
+            ],
+            [
+              74.8986628,
+              12.9103353
+            ],
+            [
+              74.8987205,
+              12.9103346
+            ],
+            [
+              74.89872,
+              12.9102956
+            ],
+            [
+              74.8987212,
+              12.9101372
+            ],
+            [
+              74.8987813,
+              12.9101367
+            ],
+            [
+              74.8987804,
+              12.9100336
+            ],
+            [
+              74.8987202,
+              12.9100341
+            ],
+            [
+              74.8987218,
+              12.9099627
+            ],
+            [
+              74.8986114,
+              12.9099622
+            ],
+            [
+              74.898611,
+              12.9100313
+            ],
+            [
+              74.8985958,
+              12.9100317
+            ],
+            [
+              74.8984663,
+              12.9100332
+            ],
+            [
+              74.898467,
+              12.9099665
+            ],
+            [
+              74.8983629,
+              12.9099655
+            ],
+            [
+              74.8983623,
+              12.9100322
+            ],
+            [
+              74.8982944,
+              12.9100323
+            ],
+            [
+              74.8982945,
+              12.91014
+            ],
+            [
+              74.8983689,
+              12.9101399
+            ]
+          ],
+          [
+            [
+              74.8984809,
+              12.9101288
+            ],
+            [
+              74.8985962,
+              12.9101282
+            ],
+            [
+              74.898596,
+              12.9102792
+            ],
+            [
+              74.8985401,
+              12.9102763
+            ],
+            [
+              74.8985394,
+              12.9103149
+            ],
+            [
+              74.8984797,
+              12.910314
+            ],
+            [
+              74.8984809,
+              12.9101393
+            ],
+            [
+              74.8984809,
+              12.9101288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-admin",
+      "properties": {
+        "id": "bldg-admin",
+        "osm_id": "way-1537952351",
+        "name": "Administrative Block",
+        "short_code": "ADMIN",
+        "category": "administrative",
+        "levels": 4,
+        "height": 16.0,
+        "wall_color": "#9aa893",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#0d9488",
+        "roof_shape": "pyramidal",
+        "photo": "/campus_photos/admin_block.png",
+        "summary": "Iconic Administrative Block featuring authentic multi-tiered Mangalore terracotta hipped pagoda roof, cylindrical portico colonnade, and the patron Saint Joseph statue roundabout garden.",
+        "departments": [
+          "Directorate & Governing Board",
+          "Principal & Vice-Principal Offices",
+          "Admissions & Public Relations",
+          "Finance & Accounts Department",
+          "Autonomous Examination Center"
+        ],
+        "facilities": [
+          "Director Conference Chamber",
+          "Principal Executive Office",
+          "Main Admissions & Enrolment Desk",
+          "Central Records & Documentation Vault",
+          "Academic Council Boardroom"
+        ],
+        "accessibility": "Direct wheelchair ramp from visitor parking, central elevator",
+        "color": "#f8fafc",
+        "parapet_color": "#cbd5c1",
+        "real_photo_available": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8985196,
+              12.9105819
+            ],
+            [
+              74.8985217,
+              12.910815
+            ],
+            [
+              74.898522,
+              12.9108505
+            ],
+            [
+              74.8986041,
+              12.9109186
+            ],
+            [
+              74.8986353,
+              12.9109181
+            ],
+            [
+              74.8988768,
+              12.9109145
+            ],
+            [
+              74.8988741,
+              12.9107456
+            ],
+            [
+              74.8988898,
+              12.9107455
+            ],
+            [
+              74.8988887,
+              12.9106335
+            ],
+            [
+              74.8988025,
+              12.9105563
+            ],
+            [
+              74.8986821,
+              12.9105598
+            ],
+            [
+              74.8986827,
+              12.9105805
+            ],
+            [
+              74.8985196,
+              12.9105819
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-ab2",
+      "properties": {
+        "id": "bldg-ab2",
+        "osm_id": "way-1537949013",
+        "name": "Academic Block II (AB-II)",
+        "short_code": "AB-II",
+        "category": "academic",
+        "levels": 6,
+        "height": 24.5,
+        "wall_color": "#889983",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#06b6d4",
+        "roof_shape": "gabled",
+        "photo": "/campus_photos/academic_block_2.jpg",
+        "summary": "Department of Computer Science & Engineering and Information Science. Highlights include the signature curved cantilevered portico canopy, tall facade columns, and central quad.",
+        "departments": [
+          "Computer Science & Engineering (CSE)",
+          "Information Science & Engineering (ISE)",
+          "Computer Applications (MCA)"
+        ],
+        "facilities": [
+          "A.P.J. Abdul Kalam Auditorium (5th Floor - 1,000 Seats)",
+          "Central Computer Centre (CCC - High Speed Gigabit Hub)",
+          "Central Library & Digital Information Repository",
+          "Advanced AI, ML & Deep Learning GPU Lab",
+          "Cybersecurity & Network Forensics Laboratory"
+        ],
+        "accessibility": "Dual high-speed passenger elevators, tactile guidance paths",
+        "color": "#f1f5f9",
+        "parapet_color": "#cbd5c1",
+        "real_photo_available": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8992235,
+              12.9108673
+            ],
+            [
+              74.8992492,
+              12.910867
+            ],
+            [
+              74.8992498,
+              12.9109133
+            ],
+            [
+              74.8994129,
+              12.9109114
+            ],
+            [
+              74.8994128,
+              12.9108641
+            ],
+            [
+              74.8994557,
+              12.9108635
+            ],
+            [
+              74.8994511,
+              12.9105151
+            ],
+            [
+              74.8992191,
+              12.910518
+            ],
+            [
+              74.8992235,
+              12.9108673
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-ab3",
+      "properties": {
+        "id": "bldg-ab3",
+        "osm_id": "way-1537942437",
+        "name": "Academic Block III (AB-III)",
+        "short_code": "AB-III",
+        "category": "academic",
+        "levels": 9,
+        "height": 34.0,
+        "wall_color": "#f8fafc",
+        "roof_color": "#0f172a",
+        "plinth_color": "#1e293b",
+        "accent_color": "#2563eb",
+        "roof_shape": "flat_solar",
+        "photo": "/campus_photos/campus_drone_aerial.jpg",
+        "summary": "Commanding 9-storey (34m) engineering research tower visible across campus. Features reflective curtain glass framing, Spoorthi Conference Hall (7th floor), and the 300 kWp rooftop solar photovoltaic array.",
+        "departments": [
+          "Electronics & Communication Engineering (ECE)",
+          "Artificial Intelligence & Data Science (AI&DS)",
+          "Business Administration (MBA)"
+        ],
+        "facilities": [
+          "Spoorthi Conference Hall (7th Floor - National Conventions)",
+          "Prerana Seminar Hall (Ground Floor - 200 Seats)",
+          "300 kWp Rooftop Solar Grid Photovoltaic Array",
+          "Robotics & Embedded Systems Research Lab",
+          "VLSI & Microelectronics Fabrication Testbench",
+          "MBA Interactive Case-Study Studio"
+        ],
+        "accessibility": "Dual passenger elevators with battery backup, wide stair cores",
+        "color": "#f8fafc",
+        "parapet_color": "#38bdf8",
+        "real_photo_available": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8993434,
+              12.9102852
+            ],
+            [
+              74.8993253,
+              12.9102853
+            ],
+            [
+              74.8993258,
+              12.9103812
+            ],
+            [
+              74.8993619,
+              12.910381
+            ],
+            [
+              74.899362,
+              12.910402
+            ],
+            [
+              74.8994343,
+              12.9104017
+            ],
+            [
+              74.8994344,
+              12.9104135
+            ],
+            [
+              74.8995114,
+              12.9104131
+            ],
+            [
+              74.8995118,
+              12.9104885
+            ],
+            [
+              74.8994838,
+              12.9104886
+            ],
+            [
+              74.8994841,
+              12.9105436
+            ],
+            [
+              74.8997545,
+              12.9105423
+            ],
+            [
+              74.8997538,
+              12.9104079
+            ],
+            [
+              74.8998436,
+              12.9104074
+            ],
+            [
+              74.8998431,
+              12.9103107
+            ],
+            [
+              74.8998679,
+              12.9103105
+            ],
+            [
+              74.8998672,
+              12.9101876
+            ],
+            [
+              74.8993673,
+              12.9101902
+            ],
+            [
+              74.8993676,
+              12.9102439
+            ],
+            [
+              74.8993432,
+              12.910244
+            ],
+            [
+              74.8993434,
+              12.9102852
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-ab4",
+      "properties": {
+        "id": "bldg-ab4",
+        "osm_id": "way-1537951217",
+        "name": "Academic Block IV \u2014 Department of Civil Engineering",
+        "short_code": "AB-IV",
+        "category": "academic",
+        "levels": 5,
+        "height": 20.0,
+        "wall_color": "#e2e8f0",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#9c4221",
+        "roof_shape": "gabled",
+        "photo": "https://www.sjec.ac.in/images/departments/civil-engineering.jpg",
+        "summary": "Civil Engineering block with materials testing labs, CAD studios, and Bishop Aloysius Paul Hall.",
+        "departments": [
+          "Civil Engineering",
+          "Centre for Environmental & Structural Studies"
+        ],
+        "facilities": [
+          "Bishop Aloysius Paul Hall",
+          "Computer-Aided Civil Design (CAD) & BIM Laboratory",
+          "Strength of Materials & Concrete Testing Lab",
+          "Geotechnical & Soil Mechanics Laboratory",
+          "Surveying Stores & Total Station Station"
+        ],
+        "accessibility": "Passenger elevator, ground floor heavy equipment access",
+        "color": "#e2e8f0",
+        "parapet_color": "#cbd5e1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8995856,
+              12.9110393
+            ],
+            [
+              74.8996311,
+              12.911038
+            ],
+            [
+              74.8997583,
+              12.911037
+            ],
+            [
+              74.8997574,
+              12.9108449
+            ],
+            [
+              74.8997561,
+              12.9107802
+            ],
+            [
+              74.8997577,
+              12.9107029
+            ],
+            [
+              74.8996627,
+              12.9107023
+            ],
+            [
+              74.8996626,
+              12.9107185
+            ],
+            [
+              74.8995405,
+              12.9107178
+            ],
+            [
+              74.8994989,
+              12.9106924
+            ],
+            [
+              74.8995005,
+              12.9108765
+            ],
+            [
+              74.8995391,
+              12.9108762
+            ],
+            [
+              74.8995387,
+              12.910834
+            ],
+            [
+              74.8996003,
+              12.9108334
+            ],
+            [
+              74.8996013,
+              12.9109488
+            ],
+            [
+              74.8995848,
+              12.9109489
+            ],
+            [
+              74.8995856,
+              12.9110393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-civil-south",
+      "properties": {
+        "id": "bldg-civil-south",
+        "osm_id": "way-1537949097",
+        "name": "Civil Block & Environmental Labs",
+        "short_code": "CIVIL-S",
+        "category": "academic",
+        "levels": 3,
+        "height": 12.0,
+        "wall_color": "#cbd5e1",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#64748b",
+        "roof_shape": "gabled",
+        "photo": "",
+        "summary": "Southern Civil engineering extension housing environmental testing and hydraulics flow channels.",
+        "departments": [
+          "Civil Engineering Testing Wings"
+        ],
+        "facilities": [
+          "Environmental Engineering Lab",
+          "Hydraulics & Fluid Flow Channel"
+        ],
+        "accessibility": "Ground level entry",
+        "color": "#cbd5e1",
+        "parapet_color": "#94a3b8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8989425,
+              12.9096244
+            ],
+            [
+              74.898704,
+              12.9095898
+            ],
+            [
+              74.898676,
+              12.9097413
+            ],
+            [
+              74.8987555,
+              12.9097525
+            ],
+            [
+              74.8987379,
+              12.9098266
+            ],
+            [
+              74.8989074,
+              12.9098494
+            ],
+            [
+              74.8989425,
+              12.9096244
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-mech-workshop",
+      "properties": {
+        "id": "bldg-mech-workshop",
+        "osm_id": "way-1538919037",
+        "name": "Central Mechanical Workshops (Green Bay)",
+        "short_code": "MECH-W",
+        "category": "academic",
+        "levels": 2,
+        "height": 9.5,
+        "wall_color": "#475569",
+        "roof_color": "#14532d",
+        "plinth_color": "#1e293b",
+        "accent_color": "#15803d",
+        "roof_shape": "gabled_metal",
+        "photo": "",
+        "summary": "Heavy industrial workshop with gabled green metal roof, overhead crane, CNC machining, and metallurgy furnaces.",
+        "departments": [
+          "Mechanical Engineering"
+        ],
+        "facilities": [
+          "CNC Machining & Turning Centre",
+          "Machine Shop (Lathes, Shapers, Milling Machines)",
+          "Welding & Sheet Metal Fabrication Bay",
+          "Foundry & Forging Laboratory"
+        ],
+        "accessibility": "Wide industrial roll-up doors, heavy vehicle driveway",
+        "color": "#64748b",
+        "parapet_color": "#334155"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8984197,
+              12.9107597
+            ],
+            [
+              74.8984822,
+              12.9106909
+            ],
+            [
+              74.8982519,
+              12.9104918
+            ],
+            [
+              74.8981893,
+              12.9105606
+            ],
+            [
+              74.8984197,
+              12.9107597
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-mech-complex",
+      "properties": {
+        "id": "bldg-mech-complex",
+        "osm_id": "way-1537948656",
+        "name": "Mechanical Engineering Department & Faculty Complex",
+        "short_code": "MECH-ENG",
+        "category": "academic",
+        "levels": 5,
+        "height": 18.5,
+        "wall_color": "#f1f5f9",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#f59e0b",
+        "roof_shape": "hipped",
+        "photo": "",
+        "summary": "5-storey building with classic white facade and red hipped roof housing Mechanical Engineering classrooms and CAMD labs.",
+        "departments": [
+          "Mechanical Engineering"
+        ],
+        "facilities": [
+          "Computer Aided Mechanical Design (CAMD) Lab",
+          "Fluid Mechanics & Hydraulic Machinery Lab",
+          "Thermodynamics & Heat Transfer Laboratory",
+          "Departmental Seminar Hall & Faculty Cabins"
+        ],
+        "accessibility": "Elevator equipped, accessible main lobby",
+        "color": "#f8fafc",
+        "parapet_color": "#e2e8f0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.9002873,
+              12.9109147
+            ],
+            [
+              74.9002871,
+              12.9106957
+            ],
+            [
+              74.9000874,
+              12.9106959
+            ],
+            [
+              74.9000875,
+              12.910813
+            ],
+            [
+              74.9001526,
+              12.910813
+            ],
+            [
+              74.9001527,
+              12.9109148
+            ],
+            [
+              74.9002873,
+              12.9109147
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-chapel",
+      "properties": {
+        "id": "bldg-chapel",
+        "osm_id": "way-1537941341",
+        "name": "Saint Pio Chapel",
+        "short_code": "CHAPEL",
+        "category": "landmark",
+        "levels": 3,
+        "height": 16.0,
+        "wall_color": "#ffffff",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#eab308",
+        "roof_shape": "cruciform",
+        "photo": "/campus_photos/saint_pio_chapel.png",
+        "summary": "Saint Pio Chapel \u2014 spiritual sanctuary of SJEC. Features iconic whitewashed architecture, soaring central concrete cross tower, warm stained glass accents, and landscaped prayer steps.",
+        "departments": [
+          "Campus Ministry & Spiritual Wellness"
+        ],
+        "facilities": [
+          "Central Nave & Sanctuary",
+          "Eucharistic Adoration Chapel",
+          "Choir Gallery & Pipe Organ Area",
+          "Surrounding Meditative Courtyard"
+        ],
+        "accessibility": "Ramped side entrance, acoustic induction loop",
+        "color": "#ffffff",
+        "parapet_color": "#ffffff",
+        "real_photo_available": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8991855,
+              12.9112381
+            ],
+            [
+              74.8992272,
+              12.9112035
+            ],
+            [
+              74.899243,
+              12.9110793
+            ],
+            [
+              74.8991957,
+              12.9110041
+            ],
+            [
+              74.8991196,
+              12.9109288
+            ],
+            [
+              74.8991033,
+              12.9109618
+            ],
+            [
+              74.8990407,
+              12.9110205
+            ],
+            [
+              74.899026,
+              12.9110672
+            ],
+            [
+              74.8990559,
+              12.9111123
+            ],
+            [
+              74.8990649,
+              12.9111996
+            ],
+            [
+              74.8991855,
+              12.9112381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-gents-hostel",
+      "properties": {
+        "id": "bldg-gents-hostel",
+        "osm_id": "way-1537940526",
+        "name": "Saint Joseph Gents Hostel",
+        "short_code": "BOYS-HOSTEL",
+        "category": "hostel",
+        "levels": 9,
+        "height": 28.0,
+        "wall_color": "#80917a",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#4f46e5",
+        "roof_shape": "terraced",
+        "photo": "/campus_photos/boys_hostel.jpg",
+        "summary": "Saint Joseph Boys Hostel \u2014 7-storey residential complex set against the lush hillside. Built with olive-sage concrete stucco, dark masonry retaining plinths, and individual room balcony sunshades.",
+        "departments": [
+          "Student Welfare & Residential Living"
+        ],
+        "facilities": [
+          "Air-conditioned and Standard Resident Rooms",
+          "Multi-counter Dining Mess & Cafeteria",
+          "Hostel Gymnasium & Fitness Club",
+          "24/7 Wi-Fi Reading & Study Lounges",
+          "Indoor Table Tennis & Recreation Rooms"
+        ],
+        "accessibility": "Elevators in main tower, accessible ground rooms",
+        "color": "#e2e8f0",
+        "parapet_color": "#cbd5c1",
+        "real_photo_available": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.9006156,
+              12.9119238
+            ],
+            [
+              74.900643,
+              12.9118506
+            ],
+            [
+              74.9007139,
+              12.9116617
+            ],
+            [
+              74.9007658,
+              12.9115236
+            ],
+            [
+              74.9007892,
+              12.9114782
+            ],
+            [
+              74.9007461,
+              12.9114623
+            ],
+            [
+              74.9007904,
+              12.9113487
+            ],
+            [
+              74.9006647,
+              12.9113037
+            ],
+            [
+              74.9004677,
+              12.911233
+            ],
+            [
+              74.9004369,
+              12.9113147
+            ],
+            [
+              74.9003598,
+              12.9112885
+            ],
+            [
+              74.9003202,
+              12.9113994
+            ],
+            [
+              74.9004173,
+              12.9114324
+            ],
+            [
+              74.9003772,
+              12.9115343
+            ],
+            [
+              74.9002746,
+              12.9117976
+            ],
+            [
+              74.9006156,
+              12.9119238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-girls-hostel",
+      "properties": {
+        "id": "bldg-girls-hostel",
+        "osm_id": "way-1537942615",
+        "name": "Saint Joseph Girls Hostel (Ladies Residence)",
+        "short_code": "GIRLS-HOSTEL",
+        "category": "hostel",
+        "levels": 5,
+        "height": 18.0,
+        "wall_color": "#9aa893",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#be185d",
+        "roof_shape": "gabled",
+        "photo": "/campus_photos/campus_drone_aerial.jpg",
+        "summary": "Saint Joseph Girls Hostel (Ladies Residence) \u2014 secure multi-storey residential block situated beside the campus groves and walking paths.",
+        "departments": [
+          "Student Welfare & Residential Living"
+        ],
+        "facilities": [
+          "Modern AC Wing & Deluxe Living Quarters",
+          "Hygienic Dining Hall & Bakery Counter",
+          "Solar Water Heating & RO Water Plants",
+          "Private Badminton Court & Lawn Garden",
+          "24/7 Wardens & Security Surveillance"
+        ],
+        "accessibility": "Elevator access, secure gated access ramp",
+        "color": "#f5f5f4",
+        "parapet_color": "#cbd5c1",
+        "real_photo_available": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8991985,
+              12.9093139
+            ],
+            [
+              74.8994753,
+              12.909317
+            ],
+            [
+              74.8994713,
+              12.9094256
+            ],
+            [
+              74.8996921,
+              12.9094255
+            ],
+            [
+              74.8996921,
+              12.9093649
+            ],
+            [
+              74.8996933,
+              12.909329
+            ],
+            [
+              74.8999575,
+              12.9093333
+            ],
+            [
+              74.8999601,
+              12.9091789
+            ],
+            [
+              74.8992011,
+              12.9091667
+            ],
+            [
+              74.8991985,
+              12.9093139
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-canteen",
+      "properties": {
+        "id": "bldg-canteen",
+        "osm_id": "way-1538919048",
+        "name": "Central Canteen & Food Court (The Lassi Corner)",
+        "short_code": "CANTEEN",
+        "category": "amenity",
+        "levels": 2,
+        "height": 9.0,
+        "wall_color": "#889983",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#ea580c",
+        "roof_shape": "gabled",
+        "photo": "/campus_photos/central_library.jpg",
+        "summary": "Central Campus Canteen & Food Court (The Lassi Corner) featuring outdoor paved dining veranda, pavilion roofs, and student snack stalls.",
+        "departments": [
+          "Campus Dining & Catering Services"
+        ],
+        "facilities": [
+          "South Indian & North Indian Meals Counter",
+          "The Lassi Corner (Juices, Shakes & Sundaes)",
+          "Bakery, Confectionery & Snack Counter",
+          "Outdoor Tree-Shaded Veranda Seating"
+        ],
+        "accessibility": "Step-free ground floor access",
+        "color": "#78716c",
+        "parapet_color": "#cbd5c1",
+        "real_photo_available": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8998334,
+              12.9106729
+            ],
+            [
+              74.8998298,
+              12.9105656
+            ],
+            [
+              74.9000326,
+              12.9105592
+            ],
+            [
+              74.9000361,
+              12.9106665
+            ],
+            [
+              74.8998334,
+              12.9106729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-bethania",
+      "properties": {
+        "id": "bldg-bethania",
+        "osm_id": "way-1537925229",
+        "name": "Bethania House",
+        "short_code": "BETHANIA",
+        "category": "administrative",
+        "levels": 3,
+        "height": 12.0,
+        "wall_color": "#f8fafc",
+        "roof_color": "#852b1b",
+        "plinth_color": "#1e293b",
+        "accent_color": "#475569",
+        "roof_shape": "flat",
+        "photo": "/campus_photos/bethania_guesthouse.jpg",
+        "summary": "Bethania House & VIP Guest House \u2014 modern architectural residence featuring high-ceiling dark curtain glass panels, cantilevered balcony, and manicured terrace gardens.",
+        "departments": [
+          "Institutional Management"
+        ],
+        "facilities": [
+          "Director Chamber",
+          "Conference Suite",
+          "Chaplain Quarters"
+        ],
+        "accessibility": "Accessible ground floor",
+        "color": "#f8fafc",
+        "parapet_color": "#f8fafc",
+        "real_photo_available": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8988864,
+              12.9114804
+            ],
+            [
+              74.8989993,
+              12.9113893
+            ],
+            [
+              74.8991307,
+              12.911544
+            ],
+            [
+              74.8990177,
+              12.9116352
+            ],
+            [
+              74.8988864,
+              12.9114804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-guesthouse",
+      "properties": {
+        "id": "bldg-guesthouse",
+        "osm_id": "way-1537925232",
+        "name": "SJEC Guest House & VIP Suites",
+        "short_code": "GUEST",
+        "category": "amenity",
+        "levels": 3,
+        "height": 11.0,
+        "wall_color": "#f1f5f9",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#57534e",
+        "roof_shape": "hipped",
+        "photo": "",
+        "summary": "Accommodates visiting university dignitaries, NBA/NAAC accreditation teams, corporate placement recruiters, and guest researchers.",
+        "departments": [
+          "Hospitality & Public Relations"
+        ],
+        "facilities": [
+          "Air-conditioned VIP Suites",
+          "Dining Lounge",
+          "Meeting Room"
+        ],
+        "accessibility": "Ground level entry",
+        "color": "#f1f5f9",
+        "parapet_color": "#e2e8f0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8990168,
+              12.9116696
+            ],
+            [
+              74.899158,
+              12.9118116
+            ],
+            [
+              74.8992299,
+              12.9117436
+            ],
+            [
+              74.8991595,
+              12.9116729
+            ],
+            [
+              74.8991815,
+              12.9116521
+            ],
+            [
+              74.8991106,
+              12.9115809
+            ],
+            [
+              74.8990168,
+              12.9116696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-main-gate",
+      "properties": {
+        "id": "bldg-main-gate",
+        "osm_id": "way-1537948657",
+        "name": "Main Entrance Security Gatehouse",
+        "short_code": "GATE-1",
+        "category": "administrative",
+        "levels": 1,
+        "height": 5.0,
+        "wall_color": "#64748b",
+        "roof_color": "#852b1b",
+        "plinth_color": "#1e293b",
+        "accent_color": "#06b6d4",
+        "roof_shape": "flat",
+        "photo": "/campus_photos/main_entrance_gate.jpg",
+        "summary": "Grand Campus Entrance Gate on the Mangaluru-Moodabidri Highway. Distinguished by quadruple vertical concrete pylons, terracotta-capped central security kiosk, and signage.",
+        "departments": [
+          "Campus Security & Transport Division"
+        ],
+        "facilities": [
+          "Security Control Station",
+          "Visitor Pass Desk",
+          "RFID Vehicle Entry Barrier"
+        ],
+        "accessibility": "Direct street-level access",
+        "color": "#334155",
+        "parapet_color": "#94a3b8",
+        "real_photo_available": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8973626,
+              12.910669
+            ],
+            [
+              74.8975679,
+              12.9105536
+            ],
+            [
+              74.8974999,
+              12.9104388
+            ],
+            [
+              74.8972947,
+              12.9105542
+            ],
+            [
+              74.8973626,
+              12.910669
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-parking-pavilion",
+      "properties": {
+        "id": "bldg-parking-pavilion",
+        "osm_id": "way-1538919044",
+        "name": "Central Covered Parking Pavilion",
+        "short_code": "PARK-PAV",
+        "category": "amenity",
+        "levels": 1,
+        "height": 4.0,
+        "wall_color": "#334155",
+        "roof_color": "#852b1b",
+        "plinth_color": "#1e293b",
+        "accent_color": "#475569",
+        "roof_shape": "sloped",
+        "photo": "",
+        "summary": "Covered parking pavilion with red metal canopy for faculty vehicles and two-wheelers.",
+        "departments": [
+          "Campus Facilities"
+        ],
+        "facilities": [
+          "Faculty Four-Wheeler Bays",
+          "Staff Two-Wheeler Covered Rows",
+          "EV Charging Point"
+        ],
+        "accessibility": "Paved ground parking",
+        "color": "#334155",
+        "parapet_color": "#475569"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8992972,
+              12.9110706
+            ],
+            [
+              74.8993716,
+              12.911093
+            ],
+            [
+              74.8993484,
+              12.911156
+            ],
+            [
+              74.8992928,
+              12.9111288
+            ],
+            [
+              74.8992972,
+              12.9110706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-scholars-a",
+      "properties": {
+        "id": "bldg-scholars-a",
+        "osm_id": "way-1538919056",
+        "name": "Faculty & Staff Residence A",
+        "short_code": "RES-A",
+        "category": "hostel",
+        "levels": 3,
+        "height": 12.0,
+        "wall_color": "#e2e8f0",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#64748b",
+        "roof_shape": "gabled",
+        "photo": "",
+        "summary": "Staff residential quarters for teaching faculty and campus personnel.",
+        "departments": [
+          "Residential Facilities"
+        ],
+        "facilities": [
+          "Family Living Suites",
+          "Dedicated Parking"
+        ],
+        "accessibility": "Accessible ground suites",
+        "color": "#e2e8f0",
+        "parapet_color": "#cbd5e1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8987611,
+              12.9112626
+            ],
+            [
+              74.8987947,
+              12.9112041
+            ],
+            [
+              74.8989652,
+              12.9112971
+            ],
+            [
+              74.8989315,
+              12.9113557
+            ],
+            [
+              74.8987611,
+              12.9112626
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-scholars-b",
+      "properties": {
+        "id": "bldg-scholars-b",
+        "osm_id": "way-1538919066",
+        "name": "Faculty & Staff Residence B",
+        "short_code": "RES-B",
+        "category": "hostel",
+        "levels": 3,
+        "height": 12.0,
+        "wall_color": "#e2e8f0",
+        "roof_color": "#852b1b",
+        "plinth_color": "#334155",
+        "accent_color": "#64748b",
+        "roof_shape": "hipped",
+        "photo": "",
+        "summary": "Staff residential quarters for campus administrators.",
+        "departments": [
+          "Residential Facilities"
+        ],
+        "facilities": [
+          "Family Living Suites",
+          "Garden Court"
+        ],
+        "accessibility": "Accessible ground suites",
+        "color": "#e2e8f0",
+        "parapet_color": "#cbd5e1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8987134,
+              12.9112049
+            ],
+            [
+              74.8987389,
+              12.9111708
+            ],
+            [
+              74.8986635,
+              12.9111172
+            ],
+            [
+              74.8986379,
+              12.9111513
+            ],
+            [
+              74.8987134,
+              12.9112049
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-substation",
+      "properties": {
+        "id": "bldg-substation",
+        "osm_id": "way-1533207274",
+        "name": "North Campus Electrical Substation & Backup Power",
+        "short_code": "POWER",
+        "category": "administrative",
+        "levels": 1,
+        "height": 5.0,
+        "wall_color": "#475569",
+        "roof_color": "#1e293b",
+        "plinth_color": "#1e293b",
+        "accent_color": "#f59e0b",
+        "roof_shape": "flat",
+        "photo": "",
+        "summary": "Houses 11 kV transformers, high-capacity diesel generators (500 kVA), and central automatic transfer switches.",
+        "departments": [
+          "Campus Electrical Maintenance"
+        ],
+        "facilities": [
+          "11 kV High Tension Transformer",
+          "500 kVA Diesel Generator Sets",
+          "Power Distribution Panels"
+        ],
+        "accessibility": "Restricted utility access",
+        "color": "#475569",
+        "parapet_color": "#334155"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8993116,
+              12.9126112
+            ],
+            [
+              74.8994087,
+              12.9127337
+            ],
+            [
+              74.8997274,
+              12.9124936
+            ],
+            [
+              74.8996303,
+              12.9123711
+            ],
+            [
+              74.8993116,
+              12.9126112
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bldg-depot",
+      "properties": {
+        "id": "bldg-depot",
+        "osm_id": "way-1533207275",
+        "name": "North Campus Maintenance Depot",
+        "short_code": "MAINT",
+        "category": "administrative",
+        "levels": 1,
+        "height": 5.0,
+        "wall_color": "#475569",
+        "roof_color": "#1e293b",
+        "plinth_color": "#1e293b",
+        "accent_color": "#64748b",
+        "roof_shape": "flat",
+        "photo": "",
+        "summary": "Base for campus civil maintenance, plumbing, electrical stores, and estate upkeep equipment.",
+        "departments": [
+          "Estate Office & Maintenance"
+        ],
+        "facilities": [
+          "Civil Maintenance Stores",
+          "Plumbing & Hardware Depot"
+        ],
+        "accessibility": "Ground level entry",
+        "color": "#475569",
+        "parapet_color": "#334155"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8991009,
+              12.9132621
+            ],
+            [
+              74.8992939,
+              12.9135502
+            ],
+            [
+              74.8996077,
+              12.9133505
+            ],
+            [
+              74.8994147,
+              12.9130624
+            ],
+            [
+              74.8991009,
+              12.9132621
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

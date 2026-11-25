@@ -1,0 +1,1347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-ab1-roof-pitched",
+        "name": "Academic Block I (AB-I) \u2014 Roof Pitch Wing",
+        "building_id": "bldg-ab1",
+        "base_height": 15.9,
+        "height": 17.9,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8983913,
+              12.9101492
+            ],
+            [
+              74.8983913,
+              12.9102393
+            ],
+            [
+              74.8983912,
+              12.910313
+            ],
+            [
+              74.8983309,
+              12.9103132
+            ],
+            [
+              74.89833,
+              12.9103938
+            ],
+            [
+              74.8983843,
+              12.910394
+            ],
+            [
+              74.8983835,
+              12.9104508
+            ],
+            [
+              74.8984732,
+              12.9104507
+            ],
+            [
+              74.8984734,
+              12.9103942
+            ],
+            [
+              74.8985875,
+              12.9103962
+            ],
+            [
+              74.8986403,
+              12.9103967
+            ],
+            [
+              74.8986411,
+              12.9103153
+            ],
+            [
+              74.8986901,
+              12.9103147
+            ],
+            [
+              74.8986897,
+              12.9102815
+            ],
+            [
+              74.8986907,
+              12.9101469
+            ],
+            [
+              74.8987418,
+              12.9101465
+            ],
+            [
+              74.8987411,
+              12.9100588
+            ],
+            [
+              74.8986899,
+              12.9100593
+            ],
+            [
+              74.8986913,
+              12.9099986
+            ],
+            [
+              74.8985974,
+              12.9099981
+            ],
+            [
+              74.8985971,
+              12.9100569
+            ],
+            [
+              74.8985842,
+              12.9100572
+            ],
+            [
+              74.8984741,
+              12.9100585
+            ],
+            [
+              74.8984747,
+              12.9100018
+            ],
+            [
+              74.8983862,
+              12.9100009
+            ],
+            [
+              74.8983857,
+              12.9100576
+            ],
+            [
+              74.898328,
+              12.9100577
+            ],
+            [
+              74.898328,
+              12.9101493
+            ],
+            [
+              74.8983913,
+              12.9101492
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-admin-roof-tier1",
+        "name": "Administrative Block \u2014 Lower Hipped Roof Eaves",
+        "building_id": "bldg-admin",
+        "base_height": 15.2,
+        "height": 17.2,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8985385,
+              12.9105972
+            ],
+            [
+              74.8985404,
+              12.910807
+            ],
+            [
+              74.8985406,
+              12.9108389
+            ],
+            [
+              74.8986145,
+              12.9109002
+            ],
+            [
+              74.8986426,
+              12.9108998
+            ],
+            [
+              74.8988599,
+              12.9108965
+            ],
+            [
+              74.8988575,
+              12.9107445
+            ],
+            [
+              74.8988716,
+              12.9107444
+            ],
+            [
+              74.8988707,
+              12.9106436
+            ],
+            [
+              74.8987931,
+              12.9105742
+            ],
+            [
+              74.8986847,
+              12.9105773
+            ],
+            [
+              74.8986853,
+              12.9105959
+            ],
+            [
+              74.8985385,
+              12.9105972
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-admin-roof-tier2",
+        "name": "Administrative Block \u2014 Upper Clerestory Lantern Pagoda",
+        "building_id": "bldg-admin",
+        "base_height": 17.2,
+        "height": 19.0,
+        "roof_color": "#78350f"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8986234,
+              12.9106661
+            ],
+            [
+              74.8986243,
+              12.910771
+            ],
+            [
+              74.8986245,
+              12.910787
+            ],
+            [
+              74.8986614,
+              12.9108176
+            ],
+            [
+              74.8986754,
+              12.9108174
+            ],
+            [
+              74.8987841,
+              12.9108158
+            ],
+            [
+              74.8987829,
+              12.9107398
+            ],
+            [
+              74.89879,
+              12.9107397
+            ],
+            [
+              74.8987895,
+              12.9106893
+            ],
+            [
+              74.8987507,
+              12.9106546
+            ],
+            [
+              74.8986965,
+              12.9106562
+            ],
+            [
+              74.8986968,
+              12.9106655
+            ],
+            [
+              74.8986234,
+              12.9106661
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-ab2-roof-pitched",
+        "name": "Academic Block II (AB-II) \u2014 Roof Pitch Wing",
+        "building_id": "bldg-ab2",
+        "base_height": 23.9,
+        "height": 25.9,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8992401,
+              12.9108557
+            ],
+            [
+              74.899262,
+              12.9108554
+            ],
+            [
+              74.8992625,
+              12.9108948
+            ],
+            [
+              74.8994011,
+              12.9108932
+            ],
+            [
+              74.899401,
+              12.910853
+            ],
+            [
+              74.8994375,
+              12.9108525
+            ],
+            [
+              74.8994336,
+              12.9105563
+            ],
+            [
+              74.8992364,
+              12.9105588
+            ],
+            [
+              74.8992401,
+              12.9108557
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-ab3-solar-array",
+        "name": "AB-III 300 kWp Rooftop Solar Grid Array",
+        "building_id": "bldg-ab3",
+        "base_height": 33.8,
+        "height": 34.8,
+        "roof_color": "#0f172a"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8993769,
+              12.9102998
+            ],
+            [
+              74.899362,
+              12.9102999
+            ],
+            [
+              74.8993624,
+              12.9103785
+            ],
+            [
+              74.899392,
+              12.9103784
+            ],
+            [
+              74.8993921,
+              12.9103956
+            ],
+            [
+              74.8994514,
+              12.9103953
+            ],
+            [
+              74.8994515,
+              12.910405
+            ],
+            [
+              74.8995146,
+              12.9104047
+            ],
+            [
+              74.899515,
+              12.9104665
+            ],
+            [
+              74.899492,
+              12.9104666
+            ],
+            [
+              74.8994922,
+              12.9105117
+            ],
+            [
+              74.899714,
+              12.9105106
+            ],
+            [
+              74.8997134,
+              12.9104004
+            ],
+            [
+              74.899787,
+              12.9104
+            ],
+            [
+              74.8997866,
+              12.9103207
+            ],
+            [
+              74.899807,
+              12.9103206
+            ],
+            [
+              74.8998064,
+              12.9102198
+            ],
+            [
+              74.8993965,
+              12.9102219
+            ],
+            [
+              74.8993967,
+              12.910266
+            ],
+            [
+              74.8993767,
+              12.910266
+            ],
+            [
+              74.8993769,
+              12.9102998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-ab4-roof-pitched",
+        "name": "Academic Block IV \u2014 Department of Civil Engineering \u2014 Roof Pitch Wing",
+        "building_id": "bldg-ab4",
+        "base_height": 19.4,
+        "height": 21.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8995913,
+              12.9110108
+            ],
+            [
+              74.89963,
+              12.9110097
+            ],
+            [
+              74.8997381,
+              12.9110089
+            ],
+            [
+              74.8997373,
+              12.9108456
+            ],
+            [
+              74.8997362,
+              12.9107906
+            ],
+            [
+              74.8997376,
+              12.9107249
+            ],
+            [
+              74.8996568,
+              12.9107244
+            ],
+            [
+              74.8996567,
+              12.9107381
+            ],
+            [
+              74.8995529,
+              12.9107375
+            ],
+            [
+              74.8995176,
+              12.910716
+            ],
+            [
+              74.8995189,
+              12.9108724
+            ],
+            [
+              74.8995518,
+              12.9108722
+            ],
+            [
+              74.8995514,
+              12.9108363
+            ],
+            [
+              74.8996038,
+              12.9108358
+            ],
+            [
+              74.8996046,
+              12.9109339
+            ],
+            [
+              74.8995906,
+              12.910934
+            ],
+            [
+              74.8995913,
+              12.9110108
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-civil-south-roof-pitched",
+        "name": "Civil Block & Environmental Labs \u2014 Roof Pitch Wing",
+        "building_id": "bldg-civil-south",
+        "base_height": 11.4,
+        "height": 13.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8989192,
+              12.9096403
+            ],
+            [
+              74.8987165,
+              12.9096109
+            ],
+            [
+              74.8986927,
+              12.9097397
+            ],
+            [
+              74.8987603,
+              12.9097492
+            ],
+            [
+              74.8987453,
+              12.9098122
+            ],
+            [
+              74.8988894,
+              12.9098316
+            ],
+            [
+              74.8989192,
+              12.9096403
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-mech-workshop-roof-pitched",
+        "name": "Central Mechanical Workshops (Green Bay) \u2014 Roof Pitch Wing",
+        "building_id": "bldg-mech-workshop",
+        "base_height": 8.9,
+        "height": 10.9,
+        "roof_color": "#14532d"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8984071,
+              12.9107396
+            ],
+            [
+              74.8984602,
+              12.9106811
+            ],
+            [
+              74.8982645,
+              12.9105119
+            ],
+            [
+              74.8982113,
+              12.9105704
+            ],
+            [
+              74.8984071,
+              12.9107396
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-mech-complex-roof-pitched",
+        "name": "Mechanical Engineering Department & Faculty Complex \u2014 Roof Pitch Wing",
+        "building_id": "bldg-mech-complex",
+        "base_height": 17.9,
+        "height": 19.9,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.9002706,
+              12.9108987
+            ],
+            [
+              74.9002704,
+              12.9107125
+            ],
+            [
+              74.9001007,
+              12.9107127
+            ],
+            [
+              74.9001007,
+              12.9108122
+            ],
+            [
+              74.9001561,
+              12.9108122
+            ],
+            [
+              74.9001562,
+              12.9108988
+            ],
+            [
+              74.9002706,
+              12.9108987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-chapel-octagonal-roof",
+        "name": "Saint Pio Chapel \u2014 Octagonal Terracotta Roof",
+        "building_id": "bldg-chapel",
+        "base_height": 15.4,
+        "height": 18.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8991784,
+              12.9112193
+            ],
+            [
+              74.8992151,
+              12.9111889
+            ],
+            [
+              74.899229,
+              12.9110796
+            ],
+            [
+              74.8991874,
+              12.9110134
+            ],
+            [
+              74.8991204,
+              12.9109471
+            ],
+            [
+              74.899106,
+              12.9109762
+            ],
+            [
+              74.899051,
+              12.9110278
+            ],
+            [
+              74.899038,
+              12.9110689
+            ],
+            [
+              74.8990643,
+              12.9111086
+            ],
+            [
+              74.8990723,
+              12.9111854
+            ],
+            [
+              74.8991784,
+              12.9112193
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-chapel-cross-tower",
+        "name": "Saint Pio Chapel \u2014 Concrete Cross Tower",
+        "building_id": "bldg-chapel",
+        "base_height": 18.4,
+        "height": 21.5,
+        "roof_color": "#ffffff"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8991392,
+              12.911116
+            ],
+            [
+              74.8991484,
+              12.9111084
+            ],
+            [
+              74.8991519,
+              12.911081
+            ],
+            [
+              74.8991415,
+              12.9110645
+            ],
+            [
+              74.8991247,
+              12.9110479
+            ],
+            [
+              74.8991211,
+              12.9110552
+            ],
+            [
+              74.8991074,
+              12.9110681
+            ],
+            [
+              74.8991041,
+              12.9110784
+            ],
+            [
+              74.8991107,
+              12.9110883
+            ],
+            [
+              74.8991127,
+              12.9111075
+            ],
+            [
+              74.8991392,
+              12.911116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-gents-hostel-penthouse",
+        "name": "Boys Hostel Rooftop Elevator Core & Tank",
+        "building_id": "bldg-gents-hostel",
+        "base_height": 28.0,
+        "height": 31.2,
+        "roof_color": "#80917a"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.9005787,
+              12.9116506
+            ],
+            [
+              74.9005883,
+              12.911625
+            ],
+            [
+              74.9006131,
+              12.9115589
+            ],
+            [
+              74.9006313,
+              12.9115105
+            ],
+            [
+              74.9006395,
+              12.9114946
+            ],
+            [
+              74.9006244,
+              12.9114891
+            ],
+            [
+              74.9006399,
+              12.9114493
+            ],
+            [
+              74.9005959,
+              12.9114336
+            ],
+            [
+              74.9005269,
+              12.9114088
+            ],
+            [
+              74.9005162,
+              12.9114374
+            ],
+            [
+              74.9004892,
+              12.9114283
+            ],
+            [
+              74.9004753,
+              12.9114671
+            ],
+            [
+              74.9005093,
+              12.9114786
+            ],
+            [
+              74.9004953,
+              12.9115143
+            ],
+            [
+              74.9004593,
+              12.9116064
+            ],
+            [
+              74.9005787,
+              12.9116506
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-gents-hostel-roof-pitched",
+        "name": "Saint Joseph Gents Hostel \u2014 Roof Pitch Wing",
+        "building_id": "bldg-gents-hostel",
+        "base_height": 27.4,
+        "height": 29.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.9006071,
+              12.9118608
+            ],
+            [
+              74.9006304,
+              12.9117985
+            ],
+            [
+              74.9006906,
+              12.911638
+            ],
+            [
+              74.9007348,
+              12.9115206
+            ],
+            [
+              74.9007546,
+              12.911482
+            ],
+            [
+              74.900718,
+              12.9114685
+            ],
+            [
+              74.9007557,
+              12.9113719
+            ],
+            [
+              74.9006488,
+              12.9113337
+            ],
+            [
+              74.9004814,
+              12.9112736
+            ],
+            [
+              74.9004552,
+              12.911343
+            ],
+            [
+              74.9003897,
+              12.9113207
+            ],
+            [
+              74.900356,
+              12.911415
+            ],
+            [
+              74.9004385,
+              12.9114431
+            ],
+            [
+              74.9004044,
+              12.9115297
+            ],
+            [
+              74.9003172,
+              12.9117535
+            ],
+            [
+              74.9006071,
+              12.9118608
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-girls-hostel-roof-pitched",
+        "name": "Saint Joseph Girls Hostel (Ladies Residence) \u2014 Roof Pitch Wing",
+        "building_id": "bldg-girls-hostel",
+        "base_height": 17.4,
+        "height": 19.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8992577,
+              12.9093144
+            ],
+            [
+              74.899493,
+              12.909317
+            ],
+            [
+              74.8994896,
+              12.9094093
+            ],
+            [
+              74.8996773,
+              12.9094093
+            ],
+            [
+              74.8996773,
+              12.9093577
+            ],
+            [
+              74.8996783,
+              12.9093272
+            ],
+            [
+              74.8999029,
+              12.9093309
+            ],
+            [
+              74.8999051,
+              12.9091996
+            ],
+            [
+              74.89926,
+              12.9091893
+            ],
+            [
+              74.8992577,
+              12.9093144
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-canteen-roof-pitched",
+        "name": "Central Canteen & Food Court (The Lassi Corner) \u2014 Roof Pitch Wing",
+        "building_id": "bldg-canteen",
+        "base_height": 8.4,
+        "height": 10.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8998483,
+              12.9106644
+            ],
+            [
+              74.8998453,
+              12.9105732
+            ],
+            [
+              74.9000177,
+              12.9105677
+            ],
+            [
+              74.9000206,
+              12.9106589
+            ],
+            [
+              74.8998483,
+              12.9106644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-bethania-roof-pitched",
+        "name": "Bethania House \u2014 Roof Pitch Wing",
+        "building_id": "bldg-bethania",
+        "base_height": 11.4,
+        "height": 13.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8989047,
+              12.9114852
+            ],
+            [
+              74.8990007,
+              12.9114077
+            ],
+            [
+              74.8991124,
+              12.9115392
+            ],
+            [
+              74.8990163,
+              12.9116168
+            ],
+            [
+              74.8989047,
+              12.9114852
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-guesthouse-roof-pitched",
+        "name": "SJEC Guest House & VIP Suites \u2014 Roof Pitch Wing",
+        "building_id": "bldg-guesthouse",
+        "base_height": 10.4,
+        "height": 12.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8990357,
+              12.9116724
+            ],
+            [
+              74.8991557,
+              12.9117931
+            ],
+            [
+              74.8992168,
+              12.9117353
+            ],
+            [
+              74.899157,
+              12.9116752
+            ],
+            [
+              74.8991757,
+              12.9116576
+            ],
+            [
+              74.8991154,
+              12.911597
+            ],
+            [
+              74.8990357,
+              12.9116724
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-main-gate-roof-pitched",
+        "name": "Main Entrance Security Gatehouse \u2014 Roof Pitch Wing",
+        "building_id": "bldg-main-gate",
+        "base_height": 4.4,
+        "height": 6.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8973729,
+              12.9106517
+            ],
+            [
+              74.8975474,
+              12.9105536
+            ],
+            [
+              74.8974896,
+              12.9104561
+            ],
+            [
+              74.8973152,
+              12.9105542
+            ],
+            [
+              74.8973729,
+              12.9106517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-parking-pavilion-roof-pitched",
+        "name": "Central Covered Parking Pavilion \u2014 Roof Pitch Wing",
+        "building_id": "bldg-parking-pavilion",
+        "base_height": 3.4,
+        "height": 5.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8993017,
+              12.9110768
+            ],
+            [
+              74.899365,
+              12.9110959
+            ],
+            [
+              74.8993453,
+              12.9111494
+            ],
+            [
+              74.899298,
+              12.9111263
+            ],
+            [
+              74.8993017,
+              12.9110768
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-scholars-a-roof-pitched",
+        "name": "Faculty & Staff Residence A \u2014 Roof Pitch Wing",
+        "building_id": "bldg-scholars-a",
+        "base_height": 11.4,
+        "height": 13.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8987764,
+              12.9112652
+            ],
+            [
+              74.898805,
+              12.9112155
+            ],
+            [
+              74.8989499,
+              12.9112945
+            ],
+            [
+              74.8989212,
+              12.9113443
+            ],
+            [
+              74.8987764,
+              12.9112652
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-scholars-b-roof-pitched",
+        "name": "Faculty & Staff Residence B \u2014 Roof Pitch Wing",
+        "building_id": "bldg-scholars-b",
+        "base_height": 11.4,
+        "height": 13.4,
+        "roof_color": "#852b1b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8987097,
+              12.9111983
+            ],
+            [
+              74.8987313,
+              12.9111693
+            ],
+            [
+              74.8986672,
+              12.9111238
+            ],
+            [
+              74.8986455,
+              12.9111528
+            ],
+            [
+              74.8987097,
+              12.9111983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-substation-roof-pitched",
+        "name": "North Campus Electrical Substation & Backup Power \u2014 Roof Pitch Wing",
+        "building_id": "bldg-substation",
+        "base_height": 4.4,
+        "height": 6.4,
+        "roof_color": "#1e293b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8993428,
+              12.9126024
+            ],
+            [
+              74.8994253,
+              12.9127065
+            ],
+            [
+              74.8996962,
+              12.9125024
+            ],
+            [
+              74.8996137,
+              12.9123983
+            ],
+            [
+              74.8993428,
+              12.9126024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bldg-depot-roof-pitched",
+        "name": "North Campus Maintenance Depot \u2014 Roof Pitch Wing",
+        "building_id": "bldg-depot",
+        "base_height": 4.4,
+        "height": 6.4,
+        "roof_color": "#1e293b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8991389,
+              12.9132687
+            ],
+            [
+              74.899303,
+              12.9135136
+            ],
+            [
+              74.8995697,
+              12.9133439
+            ],
+            [
+              74.8994056,
+              12.913099
+            ],
+            [
+              74.8991389,
+              12.9132687
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
